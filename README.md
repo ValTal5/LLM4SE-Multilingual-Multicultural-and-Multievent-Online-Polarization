@@ -24,6 +24,6 @@ This repository contains the code and notebooks for the project 'Multilingual, M
 ├── report_Task9           # report of the project
 ```
 
-The file ‘XLM-RoBERTa-Base_No_LoRA’ contains the training and evaluation of the model for both tasks.
+The file ‘XLM-RoBERTa-Base_No_LoRA’ contains the training and evaluation of the model for both tasks. <br>
 The file ‘LlamaArch3_q4bit’ contains the training and evaluation of the model for both tasks.
 
