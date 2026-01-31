@@ -9,11 +9,11 @@ This repository contains the code and notebooks for the project 'Multilingual, M
 ```text
 ├── Dataset/
 │   ├── Subtask-1/
-│   │   ├── original/
-│   │   ├── translated/
+│   │   ├── original/      # original data from the challenge
+│   │   ├── translated/    # translated data for the architecture 2
 │   ├── Subtask-2/
-│   │   ├── original/
-│   │   ├── translated/
+│   │   ├── original/      # original data from the challenge
+│   │   ├── translated/    # translated data for the architecture 2 and 3
 ├── subtask-1/
 │   ├── Architecture-1/    # XLM-RoBERTa-Base_No_LoRA + XLM-RoBERTa-Large+LoRA
 │   ├── Architecture-2/    # MarianTranslate + deBERTa
