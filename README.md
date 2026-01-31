@@ -17,3 +17,6 @@ This repository contains the code and notebooks for the project 'Multilingual, M
 │   ├── Architecture-1/    # Two-Model_Cascade_Pipeline
 │   ├── Architecture-2/    # deBERTa
 │   ├── Architecture-3/    # 
+```
+
+The file ‘XLM-RoBERTa-Base_No_LoRA’ contains the training and evaluation of the model for both tasks.
