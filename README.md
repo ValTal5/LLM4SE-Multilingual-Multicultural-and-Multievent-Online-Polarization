@@ -8,14 +8,20 @@ This repository contains the code and notebooks for the project 'Multilingual, M
 
 ```text
 ├── Dataset/
+│   ├── Subtask-1/
+│   │   ├── original/
+│   │   ├── translated/
+│   ├── Subtask-2/
+│   │   ├── original/
+│   │   ├── translated/
 ├── subtask-1/
 │   ├── Architecture-1/    # XLM-RoBERTa-Base_No_LoRA + XLM-RoBERTa-Large+LoRA
 │   ├── Architecture-2/    # MarianTranslate + deBERTa
-│   ├── Architecture-3/    # 
 ├── subtask-2/
 │   ├── Architecture-1/    # Two-Model_Cascade_Pipeline
 │   ├── Architecture-2/    # deBERTa
-│   ├── Architecture-3/    # 
+│   ├── Architecture-3/    # LlamaArch3_q4bit
 ```
 
 The file ‘XLM-RoBERTa-Base_No_LoRA’ contains the training and evaluation of the model for both tasks.
+The file ‘LlamaArch3_q4bit’ contains the training and evaluation of the model for both tasks.
