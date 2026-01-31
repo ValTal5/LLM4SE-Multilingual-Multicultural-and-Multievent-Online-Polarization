@@ -1,9 +1,8 @@
 # LLM4SE-Multilingual-Multicultural-and-Multievent-Online-Polarization
 The official repository for the project of Large Language Models for Software Engineering 2025/2026
 
-## Architectures for Subtasks
+## About the repository
 This repository contains the code and notebooks for the project 'Multilingual, Multicultural, and Multi-event Online Polarization'. The project investigates effective modeling strategies for online polarization analysis in a multilingual setting inspired by POLAR @ SemEval-2026 (Task 9). We compared multiple approaches for each subtask by implementing and evaluating different model architectures, in order to assess their effectiveness under the same experimental setting.
-
 
 ## Project Structure
 
