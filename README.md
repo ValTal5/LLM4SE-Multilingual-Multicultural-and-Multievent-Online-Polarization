@@ -7,10 +7,10 @@ The official repository for the project of Large Language Models for Software En
 
 ```text
 ├── subtask-1/
-│   ├── Architecture-1/  # XLM-RoBERTa-Base_No_LoRA + XLM-RoBERTa-Large+LoRA
-│   ├── Architecture-2/
-│   ├── Architecture-3/
+│   ├── Architecture-1/    # XLM-RoBERTa-Base_No_LoRA + XLM-RoBERTa-Large+LoRA
+│   ├── Architecture-2/    # MarianTranslate + deBERTa
+│   ├── Architecture-3/    # 
 ├── subtask-2/
-│   ├── Architecture-1/
-│   ├── Architecture-2/
-│   ├── Architecture-3/
+│   ├── Architecture-1/    # Two-Model_Cascade_Pipeline
+│   ├── Architecture-2/    # deBERTa
+│   ├── Architecture-3/    # 
