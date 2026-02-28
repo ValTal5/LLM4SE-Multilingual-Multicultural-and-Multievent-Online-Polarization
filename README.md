@@ -16,10 +16,10 @@ This repository contains the code and notebooks for the project 'Multilingual, M
 │   │   ├── translated/    # translated data for the architecture 2 and 3
 ├── subtask-1/
 │   ├── Architecture-1/    # XLM-RoBERTa-Base_No_LoRA + XLM-RoBERTa-Large+LoRA
-│   ├── Architecture-2/    # MarianTranslate + deBERTa
+│   ├── Architecture-2/    # MarianTranslate + DeBERTa-Base
 ├── subtask-2/
 │   ├── Architecture-1/    # Two-Model_Cascade_Pipeline
-│   ├── Architecture-2/    # deBERTa
+│   ├── Architecture-2/    # DeBERTa-Base
 │   ├── Architecture-3/    # LlamaArch3_q4bit
 ├── report_Task9           # report of the project
 ```
